@@ -1,0 +1,80 @@
+
+Nome do host:                              DEVELOPMENT-T4
+Nome do sistema operacional:               Microsoft Windows 11 Pro
+Vers∆o do sistema operacional:             10.0.26100 N/A compilaá∆o 26100
+Fabricante do sistema operacional:         Microsoft Corporation
+Configuraá∆o do sistema operacional:       Estaá∆o de trabalho autìnoma
+Tipo de compilaá∆o do sistema operacional: Multiprocessor Free
+Propriet†rio registrado:                   admin
+Organizaá∆o registrada:                    N/A
+Identificaá∆o do produto:                  00330-80000-00000-AA037
+Data da instalaá∆o original:               08/08/2025, 23:11:10
+Tempo de Inicializaá∆o do Sistema:         26/08/2025, 18:08:40
+Fabricante do sistema:                     QEMU
+Modelo do sistema:                         Standard PC (Q35 + ICH9, 2009)
+Tipo de sistema:                           x64-based PC
+Processador(es):                           1 processador(es) instalado(s).
+                                           [01]: Intel64 Family 6 Model 85 Stepping 4 GenuineIntel ~1995 Mhz
+Vers∆o do BIOS:                            Proxmox distribution of EDK II 4.2025.02-4~bpo12+1, 10/07/2025
+Diret¢rio do Windows:                      C:\WINDOWS
+Diret¢rio do sistema:                      C:\WINDOWS\system32
+Inicializar dispositivo:                   \Device\HarddiskVolume1
+Localidade do sistema:                     pt-br;Portuguàs (Brasil)
+Localidade de entrada:                     pt-br;Portuguàs (Brasil)
+Fuso hor†rio:                              (UTC-03:00) Bras°lia
+Mem¢ria f°sica total:                      14.979 MB
+Mem¢ria f°sica dispon°vel:                 13.347 MB
+Mem¢ria Virtual: Tamanho M†ximo:           15.939 MB
+Mem¢ria Virtual: Dispon°vel:               14.507 MB
+Mem¢ria Virtual: Em Uso:                   1.432 MB
+Local(s) do Arquivo de P†gina:             C:\pagefile.sys
+Dom°nio:                                   FSBR
+Servidor de Logon:                         N/A
+Hotfix(es):                                3 hotfix(es) instalado(s).
+                                           [01]: KB5056579
+                                           [02]: KB5063878
+                                           [03]: KB5065381
+Placa(s) de Rede:                          1 NIC(s) instalado(s).
+                                           [01]: Red Hat VirtIO Ethernet Adapter
+                                                 Nome da conex∆o: Ethernet 3
+                                                 DHCP ativado:    N∆o
+                                                 Endereáo(es) IP
+                                                 [01]: 10.10.10.106
+                                                 [02]: fe80::1f23:f806:6b66:363e
+Seguranáa baseada em virtualizaá∆o:        Status: Executando
+                                           Propriedades de Seguranáa Necess†rias:
+                                           Propriedades de seguranáa dispon°veis:
+                                                 Suporte para Virtualizaá∆o de Base
+                                                 Inicializaá∆o Segura
+                                                 C¢digo UEFI Somente Leitura
+                                           Services Configured:
+                                           Services Running:
+                                           App Control for Business policy: Imposto
+                                           App Control for Business user mode policy: Auditoria
+                                           Recursos de SeguranáaˇHabilitados:
+Requisitos do Hyper-V:                     Hipervisor detectado. Recursos necess†rios para o Hyper-V n∆o ser∆o exibidos.
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : development-t4
+   Sufixo DNS prim†rio . . . . . . . . . . . . : 
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+
+Adaptador Ethernet Ethernet 3:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Red Hat VirtIO Ethernet Adapter
+   Endereáo F°sico . . . . . . . . . . . . . . : BC-24-11-F5-BF-BA
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::1f23:f806:6b66:363e%15(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.10.10.106(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 10.10.10.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 280765457
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-30-2B-79-85-BC-24-11-E7-5C-1C
+   Servidores DNS. . . . . . . . . . . . . . . : 8.8.8.8
+                                                 1.1.1.1
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado

@@ -1,0 +1,300 @@
+
+Configura‡Æo de IP do Windows
+
+    geo.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : geo.prod.do.dsp.mp.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 268
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : geo.prod.do.dsp.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : geo.prod.do.dsp.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 268
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : array509.prod.do.dsp.mp.microsoft.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : array509.prod.do.dsp.mp.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 268
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 72.153.5.130
+
+
+    ocsp.comodoca.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : ocsp.comodoca.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 530
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 530
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 172.64.149.23
+
+
+    -keyid-340b3eaa495e159ab62232f5739f0531fc1ff5a4.microsoftaik.azure.net
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : -keyid-340b3eaa495e159ab62232f5739f0531fc1ff5a4.microsoftaik.azure.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 249
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : prdf.aadg.msidentity.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : prdf.aadg.msidentity.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 249
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : www.tm.f.prd.aadg.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : www.tm.f.prd.aadg.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 249
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 20.190.173.64
+
+
+    api.github.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : api.github.com
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 290
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 20.201.28.148
+
+
+    ocsp.sectigo.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : ocsp.sectigo.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 531
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : ocsp.comodoca.com.cdn.cloudflare.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 531
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 172.64.149.23
+
+
+    dev-lono-t1.mshome.net
+    ----------------------------------------
+    Nenhum registro do tipo AAAA
+
+
+     Nome do Registro. . . . . . . . . . . . . : dev-lono-t1.mshome.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 604800
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 172.29.192.1
+
+
+    cp601.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : cp601.prod.do.dsp.mp.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : cp601.prod.do.dsp.mp.microsoft.com.edgekey.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : cp601.prod.do.dsp.mp.microsoft.com.edgekey.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : e12358.d.akamaiedge.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : e12358.d.akamaiedge.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 23.36.41.202
+
+
+    1.192.29.172.in-addr.arpa.
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : 1.192.29.172.in-addr.arpa.
+     Tipo de Registro. . . . . . . . . . . . . : 12
+     Tempo de Vida . . . . . . . . . . . . . . : 604800
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro PTR . . . . . . . . . . . . . . . : dev-lono-t1.mshome.net
+
+
+    kv601.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : kv601.prod.do.dsp.mp.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : kv601.prod.do.dsp.mp.microsoft.com.edgekey.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : kv601.prod.do.dsp.mp.microsoft.com.edgekey.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : e12358.d.akamaiedge.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : e12358.d.akamaiedge.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 190
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 23.36.41.202
+
+
+    ctldl.windowsupdate.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : ctldl.windowsupdate.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 218
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : ctldl.windowsupdate.com.delivery.microsoft.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : ctldl.windowsupdate.com.delivery.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 218
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : wu-b-net.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : wu-b-net.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 218
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : edge.ds-c7110-microsoft.global.dns.qwilted-cds.cqloud.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : edge.ds-c7110-microsoft.global.dns.qwilted-cds.cqloud.com
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 218
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 189.125.142.211
+
+
+    v10.events.data.microsoft.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : v10.events.data.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 262
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : win-global-asimov-leafs-events-data.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : win-global-asimov-leafs-events-data.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 262
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : onedscolprdaue01.australiaeast.cloudapp.azure.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : onedscolprdaue01.australiaeast.cloudapp.azure.com
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 262
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 13.70.79.200
+
+
+    www.msftconnecttest.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : www.msftconnecttest.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 121
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : ncsi-geo.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : ncsi-geo.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 121
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : www.msftncsi.com.edgesuite.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : www.msftncsi.com.edgesuite.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 121
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : a1961.g2.akamai.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : a1961.g2.akamai.net
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 121
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 23.195.99.205
+
+
+    mobile.events.data.microsoft.com
+    ----------------------------------------
+     Nome do Registro. . . . . . . . . . . . . : mobile.events.data.microsoft.com
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 126
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : mobile.events.data.trafficmanager.net
+
+
+     Nome do Registro. . . . . . . . . . . . . : mobile.events.data.trafficmanager.net
+     Tipo de Registro. . . . . . . . . . . . . : 5
+     Tempo de Vida . . . . . . . . . . . . . . : 126
+     Comprimento dos Dados . . . . . . . . . . : 8
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro CNAME . . . . . . . . . . . . . . : onedscolprdjpe03.japaneast.cloudapp.azure.com
+
+
+     Nome do Registro. . . . . . . . . . . . . : onedscolprdjpe03.japaneast.cloudapp.azure.com
+     Tipo de Registro. . . . . . . . . . . . . : 1
+     Tempo de Vida . . . . . . . . . . . . . . : 126
+     Comprimento dos Dados . . . . . . . . . . : 4
+    Se‡Æo. . . . . . . . . . . . . . . . . . . : Resposta
+    Registro (Host). . . . . . . . . . . . . . : 13.78.111.199
+
+
+
+Configura‡Æo de IP do Windows
+
+Libera‡Æo do Cache do DNS Resolver bem-sucedida.
